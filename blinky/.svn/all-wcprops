@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/77/trunk/blinky
+END
+makedefs
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/77/trunk/blinky/makedefs
+END
+startup_gcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/77/trunk/blinky/startup_gcc.c
+END
+blinky.ld
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/77/trunk/blinky/blinky.ld
+END
+blinky.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/77/trunk/blinky/blinky.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/77/trunk/blinky/Makefile
+END
